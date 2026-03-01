@@ -1,0 +1,308 @@
+[
+  {
+    "id": "ddlj-1995-raj-malhotra",
+    "characterName": "Raj Malhotra",
+    "movie": "DDLJ(1995)",
+    "image": "https://images.hindustantimes.com/rf/image_size_960x540/HT/p2/2020/10/19/Pictures/_377255de-1223-11eb-8d9b-3f5d4a8a0fbd.jpg"
+  },
+  {
+    "id": "sholay-1975-gabbar-singh",
+    "characterName": "Gabbar Singh",
+    "movie": "Sholay (1975)",
+    "image": "https://upload.wikimedia.org/wikipedia/en/3/3c/Gabbar_Singh_%28Amjad_Khan%29.jpg"
+  },
+  {
+    "id": "ddlj-1995-simran-singh",
+    "characterName": "Simran Singh",
+    "movie": "DDLJ (1995)",
+    "image": "https://www.yashrajfilms.com/images/default-source/Movies/Dilwale-Dulhania-Le-Jayenge/Dilwale-Dulhania-Le-Jayenge-Gallery/kajol-in-dilwale-dulhania-le-jayenge.jpg?sfvrsn=5205f2cc_2"
+  },
+  {
+    "id": "sholay-1975-jai",
+    "characterName": "Jai",
+    "movie": "Sholay (1975)",
+    "image": "https://resize.indiatvnews.com/en/centered/newbucket/1200_675/2016/10/amitabh-bachchan-sholay-1476002152.jpg"
+  },
+  {
+    "id": "sholay-1975-veeru",
+    "characterName": "Veeru",
+    "movie": "Sholay(1975)",
+    "image": "https://static.toiimg.com/thumb/msid-122110199,imgsize-74322,width-400,resizemode-4/122110199.jpg"
+  },
+  {
+    "id": "mr-india-1987-mogambo",
+    "characterName": "Mogambo",
+    "movie": "Mr. India (1987)",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJ4tOqm97wy7zq6j9YvTh6-_BHnwf6wasDqw&s"
+  },
+  {
+    "id": "3-idiots-2009-rancho",
+    "characterName": "Rancho",
+    "movie": "3 Idiots (2009)",
+    "image": "https://i.redd.it/tiuyvxoszpme1.jpeg"
+  },
+  {
+    "id": "3-idiots-2009-chatur-ramalingam",
+    "characterName": "Chatur Ramalingam",
+    "movie": "3 Idiots (2009)",
+    "image": "https://images.mid-day.com/images/images/2017/apr/11-Omi-Vaidya.jpg"
+  },
+  {
+    "id": "munna-bhai-m-b-b-s-2003-munna-bhai",
+    "characterName": "Munna Bhai",
+    "movie": "Munna Bhai M.B.B.S. (2003)",
+    "image": "https://img-cdn.publive.online/fit-in/640x430/filters:format(webp)/odishatv/media/post_attachments/uploadimage/library/16_9/16_9_0/recent_photo_1729755978.webp"
+  },
+  {
+    "id": "munna-bhai-m-b-b-s-2003-circuit",
+    "characterName": "Circuit",
+    "movie": "Munna Bhai M.B.B.S. (2003)",
+    "image": "https://peepingmoon-cdn.sgp1.digitaloceanspaces.com/engpeepingmoo/ckfinder/images/xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx%20(37).jpg"
+  },
+  {
+    "id": "hera-pheri-2000-baburao-ganpatrao-apte",
+    "characterName": "Baburao Ganpatrao Apte",
+    "movie": "Hera Pheri (2000)",
+    "image": "https://images.moneycontrol.com/static-mcnews/2025/05/20250529183508_Paresh-Rawal-recently-quit-Hera-Pheri-3.png?impolicy=website&width=770&height=431"
+  },
+  {
+    "id": "jab-we-met-2007-geet-dhillon",
+    "characterName": "Geet Dhillon",
+    "movie": "Jab We Met (2007)",
+    "image": "https://d12d6l12s3d372.cloudfront.net/geetdhillon_49baec8875.jpg"
+  },
+  {
+    "id": "andaz-apna-apna-1994-crime-master-gogo",
+    "characterName": "Crime Master Gogo",
+    "movie": "Andaz Apna Apna (1994)",
+    "image": "https://media.assettype.com/gulfnews%2Fimport%2F2021%2F07%2F20%2FCrime-master-1626782016628_17ac3c3a475_large.jpg?w=480&auto=format%2Ccompress&fit=max"
+  },
+  {
+    "id": "welcome-majnu-bhai",
+    "characterName": "Majnu Bhai",
+    "movie": "Welcome",
+    "image": "https://mxp-media.ilnmedia.com/media/photogallery/2023/Sep/Anil-Kapoor-Majnu-Bhai-iconic-welcome-painting-created-by-directed-by-Anees-Bazmee-9_6514879ead67e.jpeg"
+  },
+  {
+    "id": "dabangg-2010-chulbul-pandey",
+    "characterName": "Chulbul Pandey",
+    "movie": "Dabangg (2010)",
+    "image": "https://www.masala.com/cloud/2021/11/30/chulbul-pandey.-1024x768.jpeg"
+  },
+  {
+    "id": "pk-2014-pk",
+    "characterName": "PK",
+    "movie": "PK (2014)",
+    "image": "https://i.ndtvimg.com/i/2014-12/aamir-khan_640x480_41419759063.jpg"
+  },
+  {
+    "id": "gully-boy-2019-murad-ahmed",
+    "characterName": "Murad Ahmed",
+    "movie": "Gully Boy (2019)",
+    "image": "https://static.toiimg.com/thumb/msid-118246003,width-1280,height-720,resizemode-4/118246003.jpg"
+  },
+  {
+    "id": "omg-2012-kanji-lalji-mehta",
+    "characterName": "Kanji Lalji Mehta",
+    "movie": "OMG (2012)",
+    "image": "https://indiancaselaws.wordpress.com/wp-content/uploads/2015/03/2.png"
+  },
+  {
+    "id": "dangal-2016-mahavir-singh-phogat",
+    "characterName": "Mahavir Singh Phogat",
+    "movie": "Dangal (2016)",
+    "image": "https://i0.wp.com/www.opindia.com/wp-content/uploads/2016/12/dangal-7594.jpg?fit=759%2C422&ssl=1"
+  },
+  {
+    "id": "lagaan-2001-bhuvan",
+    "characterName": "Bhuvan",
+    "movie": "Lagaan (2001)",
+    "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202306/lesser-known_facts_about_lagaan_shared_by_aamir_khan-one_one.jpg?VersionId=id0j1wLvTh0rPEPXXlLR5NlT4pr2KwNt"
+  },
+  {
+    "id": "devdas-devdas-mukherjee",
+    "characterName": "Devdas Mukherjee",
+    "movie": "Devdas",
+    "image": "https://iv1.lisimg.com/image/20009946/736full-devdas-mukherjee.jpg"
+  },
+  {
+    "id": "jab-we-met-2007-aditya-kashyap",
+    "characterName": "Aditya Kashyap",
+    "movie": "Jab We Met (2007)",
+    "image": "https://pbs.twimg.com/media/F2LoEXZWcAAic3n.jpg"
+  },
+  {
+    "id": "ghajini-2008-sanjay-singhania",
+    "characterName": "Sanjay Singhania",
+    "movie": "Ghajini (2008)",
+    "image": "https://cdn1.wionews.com/dev/wion/images/2025/20250505/aamir-khan-12433-453057.png"
+  },
+  {
+    "id": "bajrangi-bhaijaan-2015-pavan-kumar-chaturvedi-bajrangi",
+    "characterName": "Pavan Kumar Chaturvedi (Bajrangi)",
+    "movie": "Bajrangi Bhaijaan (2015)",
+    "image": "https://m.media-amazon.com/images/S/pv-target-images/f8375136e16c3b64fe7450905d55708f2326d81326b4d78a3ccf20c4e37b8037._SX1080_FMjpg_.jpg"
+  },
+  {
+    "id": "chup-chup-ke-2006-bandya",
+    "characterName": "Bandya",
+    "movie": "Chup Chup Ke (2006)",
+    "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202312/rajpal-yadav-062043565-3x4.jpg?VersionId=iGhgYpj2nIdl9kKz5nraUXLbB3UdobDp"
+  },
+  {
+    "id": "golmaal-lucky",
+    "characterName": "Lucky",
+    "movie": "Golmaal",
+    "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202212/maxresdefault-one_one.jpg?VersionId=i6UDAjYDTn.SUOa51pjaqb88UDbcCmwj"
+  },
+  {
+    "id": "golmaal-madhav",
+    "characterName": "Madhav",
+    "movie": "Golmaal",
+    "image": "https://pbs.twimg.com/media/FrPbjHBWIAAkgbj.jpg"
+  },
+  {
+    "id": "golmaal-somnath",
+    "characterName": "Somnath",
+    "movie": "Golmaal",
+    "image": "https://st1.latestly.com/wp-content/uploads/2025/05/Golmaal.jpg"
+  },
+  {
+    "id": "golmaal-nirali",
+    "characterName": "Nirali",
+    "movie": "Golmaal",
+    "image": "https://i.redd.it/what-happened-to-rimi-sen-i-remember-she-was-in-lots-of-v0-dlyrpha86hc91.jpg?width=703&format=pjpg&auto=webp&s=7de7e2d5d208b9ab63570ec2b46570f409dcdef6"
+  },
+  {
+    "id": "golmaal-vasooli-bhai",
+    "characterName": "Vasooli Bhai",
+    "movie": "Golmaal",
+    "image": "https://pbs.twimg.com/profile_images/1101830239297003521/vcbOr8Lb_400x400.jpg"
+  },
+  {
+    "id": "gangs-of-wasseypur-sardar-khan",
+    "characterName": "Sardar Khan",
+    "movie": "Gangs of Wasseypur",
+    "image": "https://images.indianexpress.com/2024/04/3_03dc15.jpg"
+  },
+  {
+    "id": "gangs-of-wasseypur-ramadhir-singh",
+    "characterName": "Ramadhir Singh",
+    "movie": "Gangs of wasseypur",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2_4Id148O2THyO6lp1vy109vlI9EuI3lYag&s"
+  },
+  {
+    "id": "gangs-of-wasseypur-faisal-khan",
+    "characterName": "Faisal Khan",
+    "movie": "Gangs of wasseypur",
+    "image": "https://images.filmibeat.com/ph-big/2024/11/from-gangs-of-wasseypur-to-badlapur-10-iconic-roles-that-prove-nawazuddin-siddiqui-is-a-legend-in-indian-cinema1732022981_0.jpeg"
+  },
+  {
+    "id": "swades-2004-mohan-bhargav",
+    "characterName": "Mohan Bhargav",
+    "movie": "Swades (2004)",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTuT2VM8zlx43MV9RgHDSEfxMMJCmwjQuoUA&s"
+  },
+  {
+    "id": "uri-the-surgical-strike-2019-major-vihaan-shergill",
+    "characterName": "Major Vihaan Shergill",
+    "movie": "Uri: The Surgical Strike (2019)",
+    "image": "https://images.livemint.com/rf/Image-621x414/LiveMint/Period2/2019/01/12/Photos/Processed/uri1-U20573096666kjH--621x414@LiveMint.jpg"
+  },
+  {
+    "id": "padmaavat-2018-alauddin-khilji",
+    "characterName": "Alauddin Khilji",
+    "movie": "Padmaavat (2018)",
+    "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202101/RR1_1200x768.png?size=690:388"
+  },
+  {
+    "id": "padmaavat-2018-ratan-singh",
+    "characterName": "Ratan Singh",
+    "movie": "Padmaavat (2018)",
+    "image": "https://variety.com/wp-content/uploads/2018/01/padmaavat-shahid-kapoor-cr.jpg?w=1000&h=667&crop=1"
+  },
+  {
+    "id": "bajirao-mastani-2015-peshwa-bajirao-ballal",
+    "characterName": "Peshwa Bajirao Ballal",
+    "movie": "Bajirao Mastani (2015)",
+    "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/201510/ranveer-singh-story_647_102515123101.jpg?VersionId=wpKuGH4iU2CRBme_ba_qof3y27011wmv"
+  },
+  {
+    "id": "dhamaal-adi",
+    "characterName": "Adi",
+    "movie": "Dhamaal",
+    "image": "https://m.media-amazon.com/images/M/MV5BMTM1ZmIzNjAtMDdhYS00YjliLWFkNTgtYWM3MTExMzY1YTNmXkEyXkFqcGc@._V1_QL75_UX388_.jpg"
+  },
+  {
+    "id": "dhamaal-manav",
+    "characterName": "Manav",
+    "movie": "Dhamaal",
+    "image": "https://www.thestatesman.com/wp-content/uploads/2024/11/Dhamaal-4-Dhamaal-Bollywood-jaaved-jaaferi-1024x683.webp"
+  },
+  {
+    "id": "gadar-tara-singh",
+    "characterName": "Tara Singh",
+    "movie": "Gadar",
+    "image": "https://c.ndtvimg.com/2023-01/ngndobrg_sunny_295x200_26_January_23.jpg"
+  },
+  {
+    "id": "khatta-meetha-2010-sachin-tichkule",
+    "characterName": "Sachin Tichkule",
+    "movie": "Khatta Meetha (2010)",
+    "image": "https://images.indianexpress.com/2010/07/m_id_163014_akshay_kumar.jpg"
+  },
+  {
+    "id": "khatta-meetha-2010-award-anushuman",
+    "characterName": "Award Anushuman",
+    "movie": "Khatta Meetha (2010)",
+    "image": "https://i1.sndcdn.com/artworks-Sbdc6iRw5DyczbdJ-QlyTTg-t1080x1080.jpg"
+  },
+  {
+    "id": "dhamaal-2007-boman",
+    "characterName": "Boman",
+    "movie": "Dhamaal (2007)",
+    "image": "https://c.ndtvimg.com/2024-03/g9c7noag_ashish_625x300_20_March_24.jpg"
+  },
+  {
+    "id": "dhamaal-2007-dev-kumar-malik",
+    "characterName": "Dev Kumar Malik",
+    "movie": "Dhamaal (2007)",
+    "image": "https://images.ottplay.com/images/cd1562e663364_news_cover.jpg?impolicy=ottplay-202501_high&width=350&height=200"
+  },
+  {
+    "id": "bhagam-bhag-2006-bunty",
+    "characterName": "Bunty",
+    "movie": "Bhagam Bhag (2006)",
+    "image": "https://pbs.twimg.com/media/Ci-MNXFUgAEszk7.jpg"
+  },
+  {
+    "id": "bhagam-bhag-babla",
+    "characterName": "Babla",
+    "movie": "Bhagam Bhag",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRS3NoZ3DgnMt7h4dD8LCB5Rp47QOGxNG_yWA&s"
+  },
+  {
+    "id": "bhagam-bhag-2006-gullu",
+    "characterName": "Gullu",
+    "movie": "Bhagam Bhag (2006)",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvW8gIyN0HN4O5_VMutS9BTQXIEQxIWGvx0w&s"
+  },
+  {
+    "id": "de-dana-dan-2009-kaala-krishna-murari",
+    "characterName": "Kaala Krishna Murari",
+    "movie": "De Dana Dan (2009)",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKAjljzj35tWVPWLlmJ8Czh4duFxdCnIPoaw&s"
+  },
+  {
+    "id": "de-dana-dan-2009-moolchand-ji",
+    "characterName": "Moolchand Ji",
+    "movie": "De Dana Dan (2009)",
+    "image": "https://m.media-amazon.com/images/M/MV5BZWI3OTkxN2MtYTZiNy00NzhmLThmZDAtYTUxNzU1ZDgyMTMwXkEyXkFqcGc@._V1_QL75_UX504_.jpg"
+  },
+  {
+    "id": "de-dana-dan-2009-nitin",
+    "characterName": "Nitin",
+    "movie": "De Dana Dan (2009)",
+    "image": "https://i.ytimg.com/vi/bMyTmy9dFSY/maxresdefault.jpg"
+  }
+]
